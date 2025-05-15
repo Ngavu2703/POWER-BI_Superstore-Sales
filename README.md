@@ -6,7 +6,7 @@ Gồm 3 bảng dữ liệu:<br>
 - Order: Thông tin giao dịch<br>
 - People: Thông tin của người bán hàng từng khu vực<br>
 - Returns: Thông tin những giao dịch bị trả lại<br>
-Mô tả bảng<br>
+*Mô tả bảng<br>*
 Order Table<br>
 <img width="323" alt="P1" src="https://github.com/user-attachments/assets/a3cb8a31-9522-4b74-a638-4ef6c5cef8a2" /><br>
 <img width="327" alt="p2" src="https://github.com/user-attachments/assets/921f8472-082c-4ccc-bbfd-8b6c7e1edd3b" /><br>
@@ -21,7 +21,7 @@ Order Table<br>
 <img width="417" alt="D6" src="https://github.com/user-attachments/assets/082b7181-6c7b-4f3a-80be-a25e46e94075" /><br>
 *Stage 3: Ideate - Ý tưởng<br>*
 <img width="376" alt="D7" src="https://github.com/user-attachments/assets/195c3123-ef76-4a9b-9495-9927380291b2" /><br>
-##III. Visualization<br>
+## III. Visualization<br>
 <img width="583" alt="V1" src="https://github.com/user-attachments/assets/04ecf536-d2fc-474e-8427-c15b058f0e9e" /><br>
 ## IV. Insights and Recommendations<br>
 *Tổng thể doanh thu*<br>
