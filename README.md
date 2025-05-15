@@ -1,29 +1,29 @@
 # POWER-BI_Superstore-Sales <br>
 Từ dataset "Global Superstore Sales", tôi sẽ thực hiện Design Thinking và xây dựng Dashboard để giúp cho Senior manager nắm được thông tin về tình hình kinh doanh của công ty từ đó chọn ra sản phẩm chiến lược và đưa ra chiến lược mở rộng thị trường.<br>
-##I. Introduce<br>
+## I. Introduce<br> 
 Dataset: Thông tin bán hàng của công ty Superstore<br>
 Gồm 3 bảng dữ liệu:<br>
-Order: Thông tin giao dịch<br>
-People: Thông tin của người bán hàng từng khu vực<br>
-Returns: Thông tin những giao dịch bị trả lại<br>
+- Order: Thông tin giao dịch<br>
+- People: Thông tin của người bán hàng từng khu vực<br>
+- Returns: Thông tin những giao dịch bị trả lại<br>
 Mô tả bảng<br>
 Order Table<br>
 <img width="323" alt="P1" src="https://github.com/user-attachments/assets/a3cb8a31-9522-4b74-a638-4ef6c5cef8a2" /><br>
 <img width="327" alt="p2" src="https://github.com/user-attachments/assets/921f8472-082c-4ccc-bbfd-8b6c7e1edd3b" /><br>
-##II. Design thinking<br>
-Stage 1: Empathize - Nhìn rộng<br>
+## II. Design thinking<br>
+*Stage 1: Empathize - Nhìn rộng<br>*
 <img width="674" alt="D1" src="https://github.com/user-attachments/assets/7f29d079-6b8f-4883-afb2-882097213495" /><br>
 <img width="415" alt="D2" src="https://github.com/user-attachments/assets/69ec49bb-0d35-46f8-b936-763736458dd9" /><br>
 <img width="179" alt="D3" src="https://github.com/user-attachments/assets/9ec980a7-0057-4f3e-b1df-be37a4fc2cca" /><br>
-Stage 2: Define POV - Nhìn sâu<br>
+*Stage 2: Define POV - Nhìn sâu<br>*
 <img width="143" alt="D4" src="https://github.com/user-attachments/assets/5460116b-f6db-4035-9dcb-8d7185ceefc5" /><br>
 <img width="424" alt="D5" src="https://github.com/user-attachments/assets/db860f47-f722-4293-9d51-12c2e6aac0ee" /><br>
 <img width="417" alt="D6" src="https://github.com/user-attachments/assets/082b7181-6c7b-4f3a-80be-a25e46e94075" /><br>
-Stage 3: Ideate - Ý tưởng<br>
+*Stage 3: Ideate - Ý tưởng<br>*
 <img width="376" alt="D7" src="https://github.com/user-attachments/assets/195c3123-ef76-4a9b-9495-9927380291b2" /><br>
 ##III. Visualization<br>
 <img width="583" alt="V1" src="https://github.com/user-attachments/assets/04ecf536-d2fc-474e-8427-c15b058f0e9e" /><br>
-##IV. Insights and Recommendations<br>
+## IV. Insights and Recommendations<br>
 *Tổng thể doanh thu*<br>
 - Doanh thu cao (32 tỷ) nhưng biên lợi nhuận rất thấp (0,14%), cho thấy hiệu quả sinh lời chưa tương xứng.<br>
 - Công ty đang phụ thuộc vào ngành hàng Technology (chiếm 81% doanh thu và 80% lợi nhuận), gây rủi ro nếu thị trường này biến động.<br>
